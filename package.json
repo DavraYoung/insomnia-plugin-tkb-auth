@@ -1,0 +1,13 @@
+{
+  "name": "insomnia-plugin-tkb-auth",
+  "version": "0.0.1",
+  "private": true,
+  "insomnia": {
+    "name": "tkb-auth",
+    "description": ""
+  },
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  },
+  "main": "main.js"
+}
